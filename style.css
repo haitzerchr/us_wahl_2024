@@ -1,0 +1,117 @@
+html, body
+{
+	margin				: 10em;
+	padding				: 0;
+}
+
+/* #########################################################################################
+*  # Für die CI Anpassungen sind hier die wichtigsten Klassen vorbereitet.
+*  # Kommentieren Sie die benötigten Klassen ein und passen sie nach Ihren Wünschen an.
+*  ######################################################################################### */
+
+/* ##### Hintergrundfarbe Widget-Header + Titel und Schrift-/Icon-Farbe ##### */
+/*
+.dpa_app .backgroundColorHighlight
+{
+	background-color	: #882E2E;
+	color 				: #FFFFFF;
+	fill 				: #FFFFFF;
+}
+*/
+
+/* ##### Hintergrundfarbe Widgets ##### */
+/*
+.dpa_appSA .dpa_body
+{
+	background-color 	: #F5F5F5;
+}
+*/
+
+/* ##### Parteienfarben #####*/
+/* ##### DEMOCRATS ##### */
+/*
+.dpa_app .color_par_us_1
+{
+	color 					: #1F74BA ;
+	fill 					: #1F74BA ;
+}
+
+.dpa_app .borderColor_par_us_1
+{
+	border-color 			: #1F74BA ;
+}
+
+.dpa_app .bg_par_us_1
+{
+	background-color    : #1F74BA ;
+}
+
+
+*/
+
+/* ##### REPUBLICANS ##### */
+/*
+.dpa_app .color_par_us_2
+{
+	color 					: #E52A24 ;
+	fill 					: #E52A24 ;
+}
+
+.dpa_app .borderColor_par_us_2
+{
+	border-color 			: #E52A24 ;
+}
+
+.dpa_app .bg_par_us_2
+{
+	background-color    : #E52A24 ;
+}
+
+
+*/
+
+
+/* #########################################################################################
+*  # Drop-Down Menues (Quellenauswahl + Wahlkreise)
+*  ######################################################################################### */
+/*
+.dpa_content-menu-btn
+{
+	background-color 	: #FFFFFF;
+	border-top 			: 1px solid #e0e0e0;
+	border-bottom 		: 1px solid #e0e0e0;
+}
+
+.dpa_content-menu-flyout
+{
+	background-color 	: #f0f0f0;
+}
+
+.dpa_content-menu-flyout .dpa_content-menu-flyout-btn.active
+{
+	background-color: #e0e0e0;
+}
+*/
+
+/* #########################################################################################
+*  # STANDALONES (.dpaAppSA+{standloneType})
+*  ######################################################################################### */
+/*
+.dpa_appSABars {}
+.dpa_appSASeats {}
+usw...
+*/
+
+/* #########################################################################################
+*  # BREAKPOINTS
+*  ######################################################################################### */
+/*
+.dpa_app-960 {}
+.dpa_app-800 {}
+.dpa_app-640 {}
+.dpa_app-568 {}
+.dpa_app-480 {}
+.dpa_app-360 {}
+.dpa_app-320 {}
+.dpa_app-1 {}
+*/
