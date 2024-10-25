@@ -1,7 +1,12 @@
 html, body
 {
-	margin				: 10em;
+	margin				: 0em;
 	padding				: 0;
+	font-family: BentonSans, Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.dpa_widget-information {
+	visibility: hidden;
 }
 
 /* #########################################################################################
