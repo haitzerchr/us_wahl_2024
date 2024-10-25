@@ -5,7 +5,11 @@ html, body
 	font-family: BentonSans, Verdana, Geneva, Tahoma, sans-serif;
 }
 
-.dpa_widget-information {
+.dpa_app {
+	font-family: BentonSans, Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.dpa_app .dpa_widget-information {
 	visibility: hidden;
 }
 
